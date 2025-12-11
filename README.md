@@ -14,4 +14,4 @@ The table below demonstrates the "Structural Collapse" of the MSE model versus t
 |-------|----------------|-----------------|-------------------|
 | **Teacher (BERT)** | 246 (Stable)   | 0.72            | 0.040             |
 | MSE Student        | 89 (Collapse)  | 0.65            | 0.028             |
-| **Hybrid (QR-EOS)**| **140 (Robust)**| **0.72** | **0.052**|
+| **Hybrid (QR-EOS + Cos)**| **140 (Robust)**| **0.72** | **0.052**|
